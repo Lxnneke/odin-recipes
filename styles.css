@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: #d1f8ff;
+    color:#37707a;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2, h3 {
+    text-align: justify;
+    background-color: aliceblue;
+    font-size: 24px;
+}
+
+img {
+    border: solid 12px #d1f8ff;
+    width: auto;
+    height: 400px;
+}
